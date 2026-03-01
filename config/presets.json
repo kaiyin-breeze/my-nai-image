@@ -75,12 +75,12 @@
     "variety": false
   },
   "c_1772389504141": {
-    "name": "肌肉版",
-    "suffix": "semi-realistic, handsome male, masculine face, square jaw, sharp eyes, confident expression, athletic build, visible abs, defined pectorals, muscular arms, broad shoulders, narrow waist, swimmer physique, tan skin, sun-kissed skin, glistening skin, sweat drops, {artist:blackmonkey}, clean line art, soft shading, vibrant lighting, 2.5d, anime face with realistic shading, masterpiece, best quality\n",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, sketch, rough sketch, bara, hyper muscle, bodybuilder, obese, fat, old, wrinkled, bishounen, feminine, skinny, slim, pale skin, censored, mosaic\nna",
+    "name": "肌肉",
+    "suffix": "{artist:mazjojo}, blackmonkey style, japanese visual novel, 2.5d, cel shading with soft gradients, sharp jawline, thick eyebrows, narrow eyes, masculine anime face, detailed nose, shaded lips, tan skin, glossy skin, point highlight, clean lineart, vibrant color, high contrast shadows, sharp focus, masterpiece\n",
+    "neg": "lowres, bad anatomy, 3d render, realistic, photo, western cartoon, bishounen, feminine face, big eyes, round face, soft face, blurry, sketch, rough, bara, hyper muscle, bodybuilder, ugly, old, wrinkled, pale skin, grey skin, monochrome\n",
     "sampler": "k_euler_ancestral",
-    "steps": 31,
-    "scale": 7.5,
+    "steps": 29,
+    "scale": 6.5,
     "smea": true,
     "variety": false
   }
