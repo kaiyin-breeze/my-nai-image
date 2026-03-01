@@ -63,5 +63,15 @@
     "scale": 6,
     "smea": true,
     "variety": false
+  },
+  "c_1772388945136": {
+    "name": "日常通用",
+    "suffix": "semi-realistic, handsome male, ikemen, bishounen, athletic build, toned muscles, defined abs, swimmer physique, tan skin, detailed skin texture, {artist:blackmonkey}, painterly style, soft shading, dramatic lighting, 2d, anime coloring, vibrant, masterpiece, best quality\n",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, 3d, realistic, photo, sketch, rough sketch, bara, hyper muscle, bulky, obese, fat, old, ugly, censored, mosaic, bar censor, light censor\n",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 7,
+    "smea": true,
+    "variety": false
   }
 }
