@@ -86,10 +86,10 @@
   },
   "c_1772474434954": {
     "name": "青年系",
-    "suffix": "handsome male, ikemen, young adult, protagonist face, sharp jawline, defined facial features, confident expression, toned body, athletic build, muscular build, broad shoulders, narrow waist, honkai star rail style, mihoyo style, clean shading, strong lighting, dramatic shadows, high contrast, vibrant color, game cg, masterpiece, best quality\n",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, hyper muscle, bodybuilder, obese, fat, old, wrinkled, child, teenager, shota, baby face, round face, big eyes, feminine, animal ears, tail, sketch, rough\n",
+    "suffix": "modern urban style, city boy, fashionable male, handsome male, ikemen, young adult, sharp jawline, defined facial features, confident expression, casual wear, street fashion, toned body, athletic build, clean shading, vibrant color, strong lighting, dramatic shadows, high contrast, contemporary anime style, game cg, masterpiece, best quality\n",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, hyper muscle, bodybuilder, obese, fat, old, wrinkled, child, teenager, shota, baby face, animal ears, tail\n",
     "sampler": "k_euler_ancestral",
-    "steps": 32,
+    "steps": 29,
     "scale": 6.5,
     "smea": true,
     "variety": false
