@@ -55,12 +55,12 @@
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, flat lighting, flat shading, cel shading, simple shading, dry skin, matte skin, soft lighting, overexposed, washed out, sketch, lineart, outline"
   },
   "c_1772355621122": {
-    "name": "动漫nsfw",
-    "suffix": "nsfw, completely nude, naked, no clothes, exposed, detailed genitals, visible penis, testicles, toned body, slender muscular, bishounen, handsome male, ikemen, anime style, cel shading, anime coloring, flat color, 2d, smooth skin, beautiful face, detailed hair, expressive eyes, clean line art, soft lighting, sakuga, animation screencap\n",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, stiff pose, static, flat lighting, clothes, clothing, shirt, pants, underwear, swimsuit, censored, mosaic, bar censor, light censor, convenient censoring, steam, fog, fake censor, scribbles, black bar, white censor, glowing light, aura covering, missing genitals, invisible genitals, smooth crotch, featureless crotch, plastic skin, doll joints, hyper muscle, bara, old, ugly, fat, 3d, realistic, photo, sketch, rough sketch\n",
+    "name": "nsfw",
+    "suffix": "nsfw, completely nude, naked, no clothes, exposed genitals, detailed penis, testicles visible, 2boys, duo, yaoi, couple, interacting, sex, handsome male, ikemen, young adult, protagonist face, sharp jawline, defined facial features, confident expression, 6-pack abs, defined pectorals, muscular chest, toned body, broad shoulders, narrow waist, honkai star rail style, mihoyo style, clean shading, strong lighting, dramatic shadows, high contrast, vibrant color, game cg, masterpiece, best quality\n",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, censored, mosaic, bar censor, light censor, convenient censoring, steam, fog, fake censor, scribbles, black bar, white censor, glowing light, aura covering, missing genitals, invisible genitals, smooth crotch, featureless crotch, clothes, clothing, shirt, pants, underwear, towel, blanket covering, hands covering crotch, crossed legs, realistic, 3d render, photo, child, teenager, shota, baby face\n",
     "sampler": "k_euler_ancestral",
-    "steps": 30,
-    "scale": 6,
+    "steps": 34,
+    "scale": 7,
     "smea": true,
     "variety": false
   },
@@ -86,7 +86,7 @@
   },
   "c_1772474434954": {
     "name": "青年系",
-    "suffix": "handsome male, ikemen, young adult, protagonist face, sharp jawline, defined facial features, narrow eyes, confident expression, short black hair, messy hair, 6-pack abs, defined pectorals, muscular chest, visible abs, toned body, athletic build, broad shoulders, narrow waist, strong lighting, dramatic shadows, high contrast, clean shading, vibrant color, anime rendering, game cg, honkai star rail style, mihoyo style, masterpiece, best quality",
+    "suffix": "handsome male, ikemen, young adult, protagonist face, sharp jawline, defined facial features, narrow eyes, confident expression, 6-pack abs, defined pectorals, muscular chest, visible abs, toned body, athletic build, broad shoulders, narrow waist, strong lighting, dramatic shadows, high contrast, clean shading, vibrant color, anime rendering, game cg, honkai star rail style, mihoyo style, masterpiece, best quality",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, hyper muscle, bodybuilder, obese, fat, old, wrinkled, child, teenager, shota, baby face, round face, big eyes, feminine, animal ears, tail, sketch, rough\n",
     "sampler": "k_euler_ancestral",
     "steps": 32,
