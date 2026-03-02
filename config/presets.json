@@ -65,7 +65,7 @@
     "variety": false
   },
   "c_1772388945136": {
-    "name": "日常通用",
+    "name": "少年系",
     "suffix": "handsome male, ikemen, bishounen, sharp eyes, refined face, youthful features, protagonist face, short messy hair, athletic build, toned arms, visible biceps, defined shoulders, slim muscular, flat abs, sleeveless, hoodie, smooth skin, matte skin, soft lighting, dappled sunlight, forest background, vibrant color, anime shading, clean lines, game cg, masterpiece, best quality\n",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, bulky, bodybuilder, obese, fat, old, wrinkled, oily skin, glossy skin, excessive muscle, animal ears, tail, fur, feminine, too young, childish, sketch, rough, monochrome\n",
     "sampler": "k_euler_ancestral",
@@ -81,6 +81,16 @@
     "sampler": "k_euler_ancestral",
     "steps": 29,
     "scale": 6.5,
+    "smea": true,
+    "variety": false
+  },
+  "c_1772474434954": {
+    "name": "青年系",
+    "suffix": "handsome male, ikemen, young adult, college student age, sharp jawline, mature face, defined facial features, narrow eyes, cool expression, confident look, short messy hair, athletic build, toned arms, visible biceps, defined shoulders, slim muscular, flat abs, sleeveless, hoodie, smooth skin, matte skin, soft lighting, forest background, vibrant color, anime shading, clean lines, game cg, masterpiece, best quality\n",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, bulky, bodybuilder, obese, fat, old, middle aged, mature old, wrinkled, oily skin, glossy skin, excessive muscle, animal ears, tail, fur, child, teenager, shota, youthful face, round face, big eyes, baby face, sketch, rough, monochrome\n",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
     "smea": true,
     "variety": false
   }
