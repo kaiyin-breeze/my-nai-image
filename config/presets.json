@@ -56,11 +56,11 @@
   },
   "c_1772355621122": {
     "name": "nsfw",
-    "suffix": "nsfw, completely nude, naked, no clothes, exposed genitals, detailed penis, testicles visible, 2boys, duo, yaoi, couple, interacting, sex, handsome male, ikemen, young adult, protagonist face, sharp jawline, defined facial features, confident expression, 6-pack abs, defined pectorals, muscular chest, toned body, broad shoulders, narrow waist, honkai star rail style, mihoyo style, clean shading, strong lighting, dramatic shadows, high contrast, vibrant color, game cg, masterpiece, best quality\n",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, censored, mosaic, bar censor, light censor, convenient censoring, steam, fog, fake censor, scribbles, black bar, white censor, glowing light, aura covering, missing genitals, invisible genitals, smooth crotch, featureless crotch, clothes, clothing, shirt, pants, underwear, towel, blanket covering, hands covering crotch, crossed legs, realistic, 3d render, photo, child, teenager, shota, baby face\n",
+    "suffix": "{{{2boys}}}, {{{duo}}}, two distinct males, [male with red hair] AND [male with blue hair], side by side, wide shot, cowboy shot, separate bodies, \nnsfw, completely nude, naked, no clothes, exposed genitals, detailed penis, testicles visible, interacting, sex, missionary position, hands on body, \nmodern urban style, city boy, fashionable male, handsome male, ikemen, young adult, sharp jawline, defined facial features, confident expression, toned body, athletic build, clean shading, vibrant color, strong lighting, dramatic shadows, high contrast, contemporary anime style, game cg, masterpiece, best quality\n",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, censored, mosaic, bar censor, light censor, convenient censoring, steam, fog, fake censor, scribbles, black bar, white censor, glowing light, aura covering, missing genitals, invisible genitals, smooth crotch, featureless crotch, clothes, clothing, shirt, pants, underwear, towel, blanket covering, hands covering crotch, crossed legs, realistic, 3d render, photo, western cartoon, bara, hyper muscle, bodybuilder, obese, fat, old, wrinkled, child, teenager, shota, baby face, animal ears, tail, solo, 1boy, 1girl, alone, single person, fused bodies, merged bodies, conjoined\n",
     "sampler": "k_euler_ancestral",
     "steps": 34,
-    "scale": 7,
+    "scale": 7.5,
     "smea": true,
     "variety": false
   },
