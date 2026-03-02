@@ -66,8 +66,8 @@
   },
   "c_1772388945136": {
     "name": "日常通用",
-    "suffix": "handsome male, ikemen, bishounen, sharp eyes, refined face, youthful features, protagonist face, red hair, short messy hair, green eyes, athletic build, toned arms, visible biceps, defined shoulders, slim muscular, flat abs, sleeveless, hoodie, fur trim, wolf ears, wolf tail, smooth skin, matte skin, soft lighting, dappled sunlight, forest background, vibrant color, anime shading, clean lines, game cg, masterpiece, best quality\n",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, bulky, bodybuilder, obese, fat, old, wrinkled, oily skin, glossy skin, excessive muscle, feminine, too young, childish, sketch, rough, monochrome\n",
+    "suffix": "handsome male, ikemen, bishounen, sharp eyes, refined face, youthful features, protagonist face, short messy hair, athletic build, toned arms, visible biceps, defined shoulders, slim muscular, flat abs, sleeveless, hoodie, smooth skin, matte skin, soft lighting, dappled sunlight, forest background, vibrant color, anime shading, clean lines, game cg, masterpiece, best quality\n",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, bulky, bodybuilder, obese, fat, old, wrinkled, oily skin, glossy skin, excessive muscle, animal ears, tail, fur, feminine, too young, childish, sketch, rough, monochrome\n",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
