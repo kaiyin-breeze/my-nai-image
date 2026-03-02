@@ -86,7 +86,7 @@
   },
   "c_1772474434954": {
     "name": "青年系",
-    "suffix": "handsome male, ikemen, young adult, protagonist face, sharp jawline, defined facial features, narrow eyes, confident expression, 6-pack abs, defined pectorals, muscular chest, visible abs, toned body, athletic build, broad shoulders, narrow waist, strong lighting, dramatic shadows, high contrast, clean shading, vibrant color, anime rendering, game cg, honkai star rail style, mihoyo style, masterpiece, best quality",
+    "suffix": "handsome male, ikemen, young adult, protagonist face, sharp jawline, defined facial features, confident expression, toned body, athletic build, muscular build, broad shoulders, narrow waist, honkai star rail style, mihoyo style, clean shading, strong lighting, dramatic shadows, high contrast, vibrant color, game cg, masterpiece, best quality\n",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, hyper muscle, bodybuilder, obese, fat, old, wrinkled, child, teenager, shota, baby face, round face, big eyes, feminine, animal ears, tail, sketch, rough\n",
     "sampler": "k_euler_ancestral",
     "steps": 32,
