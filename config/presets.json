@@ -86,11 +86,11 @@
   },
   "c_1772474434954": {
     "name": "青年系",
-    "suffix": "handsome male, ikemen, young adult, college student age, sharp jawline, mature face, defined facial features, narrow eyes, cool expression, confident look, short messy hair, athletic build, toned arms, visible biceps, defined shoulders, slim muscular, flat abs, sleeveless, hoodie, smooth skin, matte skin, soft lighting, forest background, vibrant color, anime shading, clean lines, game cg, masterpiece, best quality\n",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, bulky, bodybuilder, obese, fat, old, middle aged, mature old, wrinkled, oily skin, glossy skin, excessive muscle, animal ears, tail, fur, child, teenager, shota, youthful face, round face, big eyes, baby face, sketch, rough, monochrome\n",
+    "suffix": "handsome male, ikemen, young adult, protagonist face, sharp jawline, defined facial features, narrow eyes, confident expression, short black hair, messy hair, 6-pack abs, defined pectorals, muscular chest, visible abs, toned body, athletic build, broad shoulders, narrow waist, strong lighting, dramatic shadows, high contrast, clean shading, vibrant color, anime rendering, game cg, honkai star rail style, mihoyo style, masterpiece, best quality",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, hyper muscle, bodybuilder, obese, fat, old, wrinkled, child, teenager, shota, baby face, round face, big eyes, feminine, animal ears, tail, sketch, rough\n",
     "sampler": "k_euler_ancestral",
-    "steps": 28,
-    "scale": 6,
+    "steps": 32,
+    "scale": 6.5,
     "smea": true,
     "variety": false
   }
