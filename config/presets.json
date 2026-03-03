@@ -76,8 +76,8 @@
   },
   "c_1772389504141": {
     "name": "肌肉",
-    "suffix": "{artist:mazjojo}, blackmonkey style, japanese visual novel, 2.5d, cel shading with soft gradients, sharp jawline, thick eyebrows, narrow eyes, masculine anime face, detailed nose, shaded lips, tan skin, glossy skin, point highlight, clean lineart, vibrant color, high contrast shadows, sharp focus, masterpiece\n",
-    "neg": "lowres, bad anatomy, 3d render, realistic, photo, western cartoon, bishounen, feminine face, big eyes, round face, soft face, blurry, sketch, rough, bara, hyper muscle, bodybuilder, ugly, old, wrinkled, pale skin, grey skin, monochrome\n",
+    "suffix": "{artist:mazjojo}, {artist:blackmonkey}, handsome male, bishounen, youthful face, smooth face, anime face, large expressive eyes,  // 脸部年轻化\nvisible abs, defined pectorals, athletic build, toned muscles, swimmer physique,  // 保留肌肉但不过度\ntan skin, glistening skin, sweat drops, soft shading, vibrant color, clean line art, 2.5d, painterly style, masterpiece, best quality\n",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, sketch, rough, old, mature, middle-aged, wrinkled, facial hair, beard, stubble, thick eyebrows, square jaw, harsh face, bara, hyper muscle, bodybuilder, obese, fat, skinny, pale skin, grey skin, monochrome\n",
     "sampler": "k_euler_ancestral",
     "steps": 29,
     "scale": 6.5,
@@ -96,11 +96,11 @@
   },
   "c_1772526035297": {
     "name": "bm",
-    "suffix": "masterpiece, best quality, anime style, two handsome young men, athletic build, toned chest, natural pecs, lean muscular arms, slim waist, fit body, smooth golden skin, healthy glow, youthful face, early 20s, fresh expression, bright clear eyes, straight nose, soft jawline, confident smile, slight blush, sun-kissed skin, light sweat on skin, summer vibe, poolside lighting, warm sunlight, vibrant colors, clean shading, detailed eyes, close-up angle，shoulder to shoulder, arms around back, gentle waist touch, playful intimacy, teasing smile, romantic tension, affectionate gaze, lovers energy，wet hair, water droplets on collarbone, sunlight reflections on skin, relaxed pose, natural body proportions, subtle muscle definition",
-    "neg": "bodybuilder, huge pecs, oversized muscles, bulky, veiny muscles, mature face, old face, beard, harsh wrinkles, heavy facial lines, chibi, loli, bad anatomy, distorted face",
+    "suffix": "masterpiece, best quality, anime style, solo, single male, athletic young man, toned chest, natural pecs, lean muscular arms, slim waist, realistic body proportions, western facial structure, longer face shape, pronounced cheekbones, angular jawline, strong brow ridge, deep-set narrow eyes, straight prominent nose bridge, masculine eyebrows, slightly thick lips, sharp facial shadows, early 20s, youthful but masculine, confident relaxed expression, sun-kissed skin, warm sunlight, vibrant colors, clean detailed shading，realistic facial anatomy, defined bone structure, sharp nose contour, sculpted face, mature facial proportions but young age",
+    "neg": "big eyes, round eyes, sparkly eyes, cute face, baby face, small chin, round face, chibi, soft anime face, feminine face, smooth doll face, oversized pupils,bodybuilder, huge pecs,\nold man, beard, wrinkles",
     "sampler": "k_euler_ancestral",
-    "steps": 29,
-    "scale": 6.5,
+    "steps": 32,
+    "scale": 6,
     "smea": true,
     "variety": false
   }
