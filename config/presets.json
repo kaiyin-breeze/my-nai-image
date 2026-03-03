@@ -76,7 +76,7 @@
   },
   "c_1772389504141": {
     "name": "肌肉",
-    "suffix": "{artist:mazjojo}, {artist:blackmonkey}, handsome male, bishounen, youthful face, smooth face, anime face, large expressive eyes,  // 脸部年轻化\nvisible abs, defined pectorals, athletic build, toned muscles, swimmer physique,  // 保留肌肉但不过度\ntan skin, glistening skin, sweat drops, soft shading, vibrant color, clean line art, 2.5d, painterly style, masterpiece, best quality\n",
+    "suffix": "{artist:mazjojo}, {artist:blackmonkey}, handsome male, bishounen, adult male face, smooth face, anime face, large expressive eyes,  // 脸部年轻化\nvisible abs, defined pectorals, athletic build, toned muscles, swimmer physique,  // 保留肌肉但不过度\ntan skin, glistening skin, sweat drops, soft shading, vibrant color, clean line art, 2.5d, painterly style, masterpiece, best quality\n",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, sketch, rough, old, mature, middle-aged, wrinkled, facial hair, beard, stubble, thick eyebrows, square jaw, harsh face, bara, hyper muscle, bodybuilder, obese, fat, skinny, pale skin, grey skin, monochrome\n",
     "sampler": "k_euler_ancestral",
     "steps": 29,
