@@ -75,7 +75,7 @@
     "variety": false
   },
   "c_1772389504141": {
-    "name": "肌肉",
+    "name": "bm肌肉",
     "suffix": "{artist:mazjojo}, {artist:blackmonkey}, handsome male, bishounen, adult male face, smooth face, anime face, large expressive eyes,  // 脸部年轻化\nvisible abs, defined pectorals, athletic build, toned muscles, swimmer physique,  // 保留肌肉但不过度\ntan skin, glistening skin, sweat drops, soft shading, vibrant color, clean line art, 2.5d, painterly style, masterpiece, best quality\n",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, sketch, rough, old, mature, middle-aged, wrinkled, facial hair, beard, stubble, thick eyebrows, square jaw, harsh face, bara, hyper muscle, bodybuilder, obese, fat, skinny, pale skin, grey skin, monochrome\n",
     "sampler": "k_euler_ancestral",
@@ -95,7 +95,7 @@
     "variety": false
   },
   "c_1772526035297": {
-    "name": "bm",
+    "name": "青年肌肉",
     "suffix": "masterpiece, best quality, anime style, solo, single male, athletic young man, toned chest, natural pecs, lean muscular arms, slim waist, realistic body proportions, western facial structure, longer face shape, pronounced cheekbones, angular jawline, strong brow ridge, deep-set narrow eyes, straight prominent nose bridge, masculine eyebrows, slightly thick lips, sharp facial shadows, early 20s, youthful but masculine, confident relaxed expression, sun-kissed skin, warm sunlight, vibrant colors, clean detailed shading，realistic facial anatomy, defined bone structure, sharp nose contour, sculpted face, mature facial proportions but young age",
     "neg": "big eyes, round eyes, sparkly eyes, cute face, baby face, small chin, round face, chibi, soft anime face, feminine face, smooth doll face, oversized pupils,bodybuilder, huge pecs,\nold man, beard, wrinkles",
     "sampler": "k_euler_ancestral",
