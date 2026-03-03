@@ -86,7 +86,7 @@
   },
   "c_1772474434954": {
     "name": "青年系",
-    "suffix": "project mugen style, netease games style, modern city boy, 20 years old, university student, handsome male, ikemen, adult male face, mature anime face, sharp jawline, confident expression, cool look, messy hair, tousled hair, \nbroad shoulders, adult male body proportions, toned body, visible abs, defined pectorals, slim fit,  // 宽肩+成年比例+精瘦腹肌\nclean skin, soft lighting, modern anime style, game cg, high quality, masterpiece\n",
+    "suffix": "project mugen style, netease games style, modern city boy, 20 years old, university student, handsome male, ikemen, adult male face, mature anime face, sharp jawline, confident expression, cool look, messy hair, tousled hair, \nbroad shoulders, adult male body proportions, athletic build, fit body, slim fit,  // 宽肩+成年比例+精瘦腹肌\nclean skin, soft lighting, modern anime style, game cg, high quality, masterpiece\n",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, western cartoon, bara, hyper muscle, bodybuilder, obese, fat, old, middle aged, wrinkled, child, teenager, shota, boy, underage, baby face, round face, big eyes, childish face, youthful face, petite, narrow shoulders, slim shoulders, skinny, weak, feminine, animal ears, tail, monochrome, sketch, rough\n",
     "sampler": "k_euler_ancestral",
     "steps": 29,
