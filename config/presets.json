@@ -96,11 +96,11 @@
   },
   "c_1772526035297": {
     "name": "bm",
-    "suffix": "masterpiece, best quality, anime style, two muscular men, nude upper body, extremely detailed anatomy, huge pecs, thick arms, defined abs, V-shaped torsos, glossy skin, sweat and water droplets, intimate close contact, bodies pressed together, thigh against thigh, flushed skin, heavy breathing expression, half-lidded eyes, lips slightly parted, teasing gaze, intense romantic tension, possessive pose, hand gripping waist, fingers pressing into skin, dramatic lighting, high contrast shadows, warm sunset glow, sensual atmosphere，bare skin, minimal clothing slipping down, low waistband, suggestive framing, cropped composition, lower body partially visible, implied nudity",
-    "neg": "low quality, bad anatomy, extra limbs, extra fingers, poorly drawn hands, poorly drawn face, flat shading, dull colors, censored mosaic, black bar, text watermark, distorted perspective",
+    "suffix": "masterpiece, best quality, anime style, two handsome young men, athletic build, toned chest, natural pecs, lean muscular arms, slim waist, fit body, smooth golden skin, healthy glow, youthful face, early 20s, fresh expression, bright clear eyes, straight nose, soft jawline, confident smile, slight blush, sun-kissed skin, light sweat on skin, summer vibe, poolside lighting, warm sunlight, vibrant colors, clean shading, detailed eyes, close-up angle，shoulder to shoulder, arms around back, gentle waist touch, playful intimacy, teasing smile, romantic tension, affectionate gaze, lovers energy，wet hair, water droplets on collarbone, sunlight reflections on skin, relaxed pose, natural body proportions, subtle muscle definition",
+    "neg": "bodybuilder, huge pecs, oversized muscles, bulky, veiny muscles, mature face, old face, beard, harsh wrinkles, heavy facial lines, chibi, loli, bad anatomy, distorted face",
     "sampler": "k_euler_ancestral",
-    "steps": 33,
-    "scale": 7,
+    "steps": 29,
+    "scale": 6.5,
     "smea": true,
     "variety": false
   }
