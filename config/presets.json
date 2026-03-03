@@ -93,5 +93,15 @@
     "scale": 6.5,
     "smea": true,
     "variety": false
+  },
+  "c_1772526035297": {
+    "name": "bm",
+    "suffix": "masterpiece, best quality, anime style, two muscular men, nude upper body, extremely detailed anatomy, huge pecs, thick arms, defined abs, V-shaped torsos, glossy skin, sweat and water droplets, intimate close contact, bodies pressed together, thigh against thigh, flushed skin, heavy breathing expression, half-lidded eyes, lips slightly parted, teasing gaze, intense romantic tension, possessive pose, hand gripping waist, fingers pressing into skin, dramatic lighting, high contrast shadows, warm sunset glow, sensual atmosphere，bare skin, minimal clothing slipping down, low waistband, suggestive framing, cropped composition, lower body partially visible, implied nudity",
+    "neg": "low quality, bad anatomy, extra limbs, extra fingers, poorly drawn hands, poorly drawn face, flat shading, dull colors, censored mosaic, black bar, text watermark, distorted perspective",
+    "sampler": "k_euler_ancestral",
+    "steps": 33,
+    "scale": 7,
+    "smea": true,
+    "variety": false
   }
 }
