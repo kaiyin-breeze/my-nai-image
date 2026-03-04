@@ -103,5 +103,15 @@
     "scale": 6,
     "smea": true,
     "variety": false
+  },
+  "c_1772627310431": {
+    "name": "动漫风",
+    "suffix": "score_9, score_8_up, score_7_up, rating_safe, source_anime, masterpiece, best quality, ultra-detailed, beautiful detailed face, beautiful detailed eyes, soft lighting, pastel colors, visual novel cg, otome game, bishonen\n",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, \nfemale, breasts, girl, woman, lipstick, makeup, eyelashes (thick), long hair, feminine pose, \nbad proportions, mutated, deformed, ugly, old, wrinkles, simple eyes, small eyes, looking away, multiple views\n",
+    "sampler": "k_euler_ancestral",
+    "steps": 29,
+    "scale": 6.5,
+    "smea": true,
+    "variety": false
   }
 }
