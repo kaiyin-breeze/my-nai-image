@@ -105,7 +105,7 @@
     "variety": false
   },
   "c_1772627310431": {
-    "name": "动漫风",
+    "name": "游戏风",
     "suffix": "artist:mazjojo, mazjojo style, BLits, bara, muscular male, handsome, tan skin, casual wear, streetwear, modern clothes, open clothes, bold lineart, thick outlines, cel shading, vibrant colors, confident expression, young adult, game cg, visual novel style, masterpiece, best quality, highres\n",
     "neg": "sportswear, jersey, tank top, gym clothes, bishonen, feminine, androgynous, pretty boy, skinny, thin, pale skin, soft features, kawaii, shota, child, childish face, photorealistic, 3d, realistic, old, wrinkles, middle aged, bad anatomy, bad hands, lowres, worst quality, blurry\n",
     "sampler": "k_euler_ancestral",
