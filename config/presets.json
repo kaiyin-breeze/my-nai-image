@@ -107,7 +107,7 @@
   "c_1772627310431": {
     "name": "动漫风",
     "suffix": "mazjojo, BLits, jock studio, bara, muscular male, tan skin, sporty, confident expression, bold lines, thick outlines, vibrant colors, game cg, visual novel style, high quality, detailed muscles, athletic aesthetic，(mazjojo style:1.3), (BLits:1.2), (bara:1.1), (muscular male:1.2), (tan skin:1.15), (spiky hair:1.1), confident, sporty, jock, bold lineart, cel shaded, game screenshot, highres\n\n",
-    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, 3d, realistic, photo, western cartoon，skinny, thin, lean, slim body, petite, small muscles, undefined muscles, exaggerated muscles, bodybuilder, steroid, veiny, ugly, old, wrinkled, beard, facial hair\n\n",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, 3d, realistic, photo, western cartoon\n",
     "sampler": "k_euler_ancestral",
     "steps": 29,
     "scale": 6.5,
