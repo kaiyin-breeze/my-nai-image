@@ -56,8 +56,8 @@
   },
   "c_1772355621122": {
     "name": "nsfw",
-    "suffix": "artist:mazjojo, mazjojo style, BLits, bara, nsfw, explicit, yaoi, gay, male on male, sex, penetration, missionary position, doggystyle, riding, cowgirl position, leaning forward, back muscles, sweat, heavy breathing, blush, drooling, saliva, trembling, muscular male, detailed anatomy, detailed penis, erection, testicles, abs, pectorals, nude, on bed, bedroom background, bold lineart, thick outlines, cel shading, vibrant, game cg, masterpiece\n",
-    "neg": "artist:mazjojo, mazjojo style, BLits, bara, nsfw, explicit, nude, muscular male, handsome, tan skin, detailed penis, erection, large pectorals, abs, sweat, glistening skin, bold lineart, thick outlines, cel shading, vibrant colors, yaoi, game cg, masterpiece, best quality, highres\n",
+    "suffix": "artist:mazjojo, mazjojo style, BLits, bara, nsfw, explicit, nude, naked, male focus, muscular male, handsome, tan skin, detailed penis, erection, large pectorals, abs, navel, pubic hair, casual wear, undressing, open clothes, clothes on floor, sweat, glistening skin, bold lineart, thick outlines, cel shading, vibrant colors, confident expression, bedroom eyes, looking at viewer, inviting pose, yaoi, bara aesthetic, game cg, masterpiece, best quality, highres\n",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad face, distorted face, bad proportions, malformed genitals, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, ugly, disgusting, amputee, extra limbs, duplicate, morbid, mutilated, out of frame, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, cross-eyed, bad knees, bad feet，rating_safe, censored, mosaic, bar censor, light censor, convenient censoring, covered genitals, clothes, dressed, \n\n",
     "sampler": "k_euler_ancestral",
     "steps": 34,
     "scale": 7.5,
