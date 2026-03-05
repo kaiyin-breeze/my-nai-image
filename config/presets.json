@@ -55,7 +55,7 @@
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, flat lighting, flat shading, cel shading, simple shading, dry skin, matte skin, soft lighting, overexposed, washed out, sketch, lineart, outline"
   },
   "c_1772355621122": {
-    "name": "nsfw",
+    "name": "插入用",
     "suffix": "artist:mazjojo, mazjojo style, BLits, bara, nsfw, explicit, yaoi, \n[选择以下一种姿势描述]:\n(lying on back, supine, missionary) / (on all fours, doggystyle, arching back) / (straddling, cowgirl, upright),\ndetailed penis, erection, testicles, penetration, \nmuscular male, tan skin, abs, pectorals, navel, sweat, glistening skin, \nheavy breathing, blush, drooling, saliva, trembling, \nbold lineart, thick outlines, cel shading, vibrant, game cg, masterpiece\n",
     "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, username, blurry, female, breasts, vagina, shota, child, censored, mosaic, rating_safe, mutated genitals, malformed penis, twisted torso, distorted anatomy, bad proportions, inconsistent pose, floating limbs, disconnected body parts\n",
     "sampler": "k_euler_ancestral",
@@ -111,6 +111,16 @@
     "sampler": "k_euler_ancestral",
     "steps": 29,
     "scale": 7,
+    "smea": true,
+    "variety": false
+  },
+  "c_1772734505854": {
+    "name": "器官用",
+    "suffix": "artist:mazjojo, mazjojo style, BLits, bara, nsfw, explicit, nude, naked, male focus, muscular male, handsome, tan skin, detailed penis, erection, large pectorals, abs, navel, pubic hair, casual wear, undressing, open clothes, clothes on floor, sweat, glistening skin, bold lineart, thick outlines, cel shading, vibrant colors, confident expression, bedroom eyes, looking at viewer, inviting pose, yaoi, bara aesthetic, game cg, masterpiece, best quality, highres\n",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, username, blurry, female, breasts, vagina, shota, child, androgynous, censored, mosaic, rating_safe, mutated genitals, malformed penis, bad proportions\n",
+    "sampler": "k_euler_ancestral",
+    "steps": 34,
+    "scale": 7.5,
     "smea": true,
     "variety": false
   }
