@@ -56,8 +56,8 @@
   },
   "c_1772355621122": {
     "name": "nsfw",
-    "suffix": "{artist:mazjojo}, {artist:blackmonkey}, nsfw, completely nude, naked, no clothes, exposed genitals, detailed penis, testicles visible,  // NSFW核心词\nhandsome male, bishounen, adult male face, smooth face, anime face, large expressive eyes,  // 青年脸\nvisible abs, defined pectorals, athletic build, toned muscles, swimmer physique,  // 肌肉\ntan skin, glistening skin, wet skin, sweat drops,  // 油润皮肤质感\nsoft shading, vibrant color, clean line art, 2.5d, painterly style, masterpiece, best quality\n",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, realistic, 3d render, photo, sketch, rough, old, mature, middle-aged, wrinkled, facial hair, beard, stubble, thick eyebrows, square jaw, harsh face, bara, hyper muscle, bodybuilder, obese, fat, skinny, pale skin, grey skin, monochrome,  // 原负面词\ncensored, mosaic, bar censor, light censor, convenient censoring, steam, fog, fake censor, scribbles, black bar, white censor, glowing light, aura covering, missing genitals, invisible genitals, smooth crotch, featureless crotch, plastic skin, doll joints,  // 防器官屏蔽\nclothes, clothing, shirt, pants, underwear, swimsuit, towel, blanket covering, hands covering crotch, crossed legs,  // 防穿衣/遮挡\n",
+    "suffix": "artist:mazjojo, mazjojo style, BLits, bara, nsfw, explicit, nude, muscular male, handsome, tan skin, detailed penis, erection, large pectorals, abs, sweat, glistening skin, bold lineart, thick outlines, cel shading, vibrant colors, yaoi, game cg, masterpiece, best quality, highres\n",
+    "neg": "artist:mazjojo, mazjojo style, BLits, bara, nsfw, explicit, nude, muscular male, handsome, tan skin, detailed penis, erection, large pectorals, abs, sweat, glistening skin, bold lineart, thick outlines, cel shading, vibrant colors, yaoi, game cg, masterpiece, best quality, highres\n",
     "sampler": "k_euler_ancestral",
     "steps": 34,
     "scale": 7.5,
