@@ -105,7 +105,7 @@
     "variety": false
   },
   "c_1772627310431": {
-    "name": "游戏风",
+    "name": "黑猴",
     "suffix": "artist:mazjojo, mazjojo style, BLits, bara, muscular male, handsome, tan skin, casual wear, streetwear, modern clothes, open clothes, bold lineart, thick outlines, cel shading, vibrant colors, confident expression, young adult, game cg, visual novel style, masterpiece, best quality, highres\n",
     "neg": "sportswear, jersey, tank top, gym clothes, bishonen, feminine, androgynous, pretty boy, skinny, thin, pale skin, soft features, kawaii, shota, child, childish face, photorealistic, 3d, realistic, old, wrinkles, middle aged, bad anatomy, bad hands, lowres, worst quality, blurry\n",
     "sampler": "k_euler_ancestral",
@@ -121,6 +121,16 @@
     "sampler": "k_euler_ancestral",
     "steps": 34,
     "scale": 7.5,
+    "smea": true,
+    "variety": false
+  },
+  "c_1772960380646": {
+    "name": "现代动漫风",
+    "suffix": "masterpiece, best quality, highres, modern anime style, cel-shaded, soft cel shading, clean bold lineart, visual novel CG, BL game aesthetic, mature adult male, late 20s, tall stature, broad shoulders, masculine face, defined jawline, prominent cheekbones, narrow eyes, sharp intense gaze, hunter eyes, confident composed expression, adult body proportions, muscular build, detailed mature features, 2D, sharp focus, official art\n",
+    "neg": "3D, render, photorealistic, sketch, messy lines, child, childish, shota, boy, teenager, teen, adolescent, youthful, baby face, round face, soft features, cute, kawaii, innocent expression, big round eyes, doe eyes, short stature, small frame, feminine body, ambiguous age, looking at viewer surprised, lowres, blurry, bad anatomy, extra fingers, missing fingers, deformed, watermark, signature, text\n",
+    "sampler": "k_euler_ancestral",
+    "steps": 30,
+    "scale": 8,
     "smea": true,
     "variety": false
   }
