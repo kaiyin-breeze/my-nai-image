@@ -133,5 +133,15 @@
     "scale": 8,
     "smea": true,
     "variety": false
+  },
+  "c_1775730759382": {
+    "name": "ff7",
+    "suffix": "final fantasy style, square enix style, 3d game cg, soft cinematic lighting, natural shading, handsome male, ikemen, young adult, adult male face, sharp jawline, gentle expression, soft smile, messy hair, tousled hair, spiky hair, \nnsfw, completely nude, naked, no clothes, full body, legs spread, \ndetailed penis, visible glans, visible shaft, detailed testicles, shaved, smooth crotch, \ntoned body, athletic build, natural abs, subtle muscle definition, \nskin texture, matte skin, natural skin tone, \nvibrant color, high quality, masterpiece\n",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, sketch, rough, old, middle aged, wrinkled, facial hair, beard, stubble, bara, hyper muscle, bodybuilder, bulky, obese, fat, skinny, pale skin, grey skin, monochrome, \ncensored, mosaic, bar censor, light censor, convenient censoring, steam, fog, fake censor, scribbles, black bar, white censor, glowing light, aura covering, \nmissing genitals, invisible genitals, smooth crotch, featureless crotch, hidden genitals, obscured, \npubic hair, excessive body hair, hair covering crotch, \nupper body only, cropped, off screen, missing lower body, crossed legs, legs together, \nplastic skin, doll joints, oily skin, shiny skin, glistening skin, wet skin, glossy skin, porcelain skin, perfect skin, \nclothes, clothing, shirt, pants, underwear, swimsuit, towel, blanket covering, hands covering crotch, \n2d, anime, cartoon, western cartoon, photo, photorealistic, real person, unreal engine, 8k\n",
+    "sampler": "k_euler_ancestral",
+    "steps": 32,
+    "scale": 7,
+    "smea": true,
+    "variety": false
   }
 }
