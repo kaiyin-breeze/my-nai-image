@@ -143,5 +143,25 @@
     "scale": 7,
     "smea": true,
     "variety": false
+  },
+  "c_1775748229693": {
+    "name": "韩漫",
+    "suffix": "modern bl style, yaoi, mature handsome male, ikemen, korean beauty standard, sharp jawline, deep set eyes, narrow eyes, intense gaze, black hair, messy hair, undercut, tattoo, arm tattoo, neck tattoo, suit, unbuttoned shirt, white shirt, black pants, belt, silver necklace, chain bracelet, mature adult, 25 years old, confident expression, dominant posture,\nnsfw, completely nude, naked, open clothes, exposed chest, visible abs, detailed penis, erect penis, visible glans, detailed testicles, shaved, smooth skin,\ndramatic lighting, chiaroscuro, cinematic composition, dark background, atmospheric, moody lighting, rim light, soft focus background, bokeh, \nrealistic shading, detailed skin texture, natural skin tone, matte skin, pore details, masterpiece, best quality, 8k, octane render, unreal engine\n",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, sketch, rough, child, teenager, shota, baby face, round face, big eyes, bishounen, youthful face, \ncensored, mosaic, bar censor, light censor, convenient censoring, steam, fog, fake censor, scribbles, black bar, white censor, glowing light, aura covering, \nmissing genitals, invisible genitals, smooth crotch, featureless crotch, hidden by hair, pubic hair, excessive body hair, small penis, poorly drawn penis, \nclothes, clothing, shirt, pants, underwear, swimsuit, towel, blanket covering, hands covering crotch, crossed legs, \n2d, anime, cartoon, western cartoon, photo, photorealistic, dslr, Fujifilm, raw photo, film grain\n",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": true,
+    "variety": false
+  },
+  "c_1775749131409": {
+    "name": "写实",
+    "suffix": "realistic style, 3d render, octane render, unreal engine 5, detailed skin texture, visible pores, subtle skin blemishes, natural skin luster, asymmetrical face ,hyper-detailed hair, cinematic lighting, rim lighting, atmospheric lighting, chiaroscuro, 25 years old, confident expression, dominant posture, messy hair, mature handsome male,   almond eyes, narrow eyes, refined features, defined jawline, mature jawline, college graduate age,nsfw, completely nude, naked, open clothes, exposed chest, visible abs, detailed penis, erect penis, visible glans, detailed testicles, shaved, smooth skin, subtle muscle definition,lean muscle,slight toned body,\nbokeh, depth of field, masterpiece, best quality, 8k uhd, photorealistic, raw photo, soft lighting, Fujifilm XT4, 85mm lens, sharp focus  ",
+    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, distorted face, asymmetrical face, ugly ,sketch, rough, child, teenager, shota, baby face, round face, big eyes, bishounen, youthful face, \ncensored, mosaic, bar censor, light censor, convenient censoring, steam, fog, fake censor, scribbles, black bar, white censor, glowing light, aura covering, \nmissing genitals, invisible genitals, smooth crotch, featureless crotch, hidden by hair, pubic hair, excessive body hair, small penis, poorly drawn penis, \nclothes, clothing, shirt, pants, underwear, swimsuit, towel, blanket covering, hands covering crotch, crossed legs, \n2d, anime, cartoon, western cartoon\n",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": true,
+    "variety": false
   }
 }
